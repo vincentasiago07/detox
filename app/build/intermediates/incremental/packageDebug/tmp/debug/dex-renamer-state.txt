@@ -1,0 +1,4 @@
+#Fri Jan 28 12:55:17 EAT 2022
+base.0=C\:\\Users\\NRCF\\AndroidStudioProjects\\whatsappcloneapp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424963238626",
+    "project_id": "detox-bd97f",
+    "storage_bucket": "detox-bd97f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424963238626:android:f264dcaf917a22df380cbb",
+        "android_client_info": {
+          "package_name": "com.example.whatsappcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424963238626-3gv40r6ddssake6bddgtn6t8a0fnjs9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YSXnzVQk8BtJSASzrVpL30c5ccML2gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424963238626-3gv40r6ddssake6bddgtn6t8a0fnjs9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
